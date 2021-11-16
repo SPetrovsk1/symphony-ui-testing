@@ -13,6 +13,8 @@ public class CareersTests extends BaseTestClass {
     private HomePage homePage;
     private CareersPage careersPage;
 
+    private static final int EXPECTED_NUMBER_OF_OPEN_POSITIONS = 60;
+
     @Override
     protected void beforeClassExtended() {
 
@@ -25,6 +27,6 @@ public class CareersTests extends BaseTestClass {
         careersPage = homePage.navigateToCurrentOpenings();
         careersPage.readOpenPositions();
         FileWriter.addJobsToTextFile(careersPage.getOpenPositionList());
-        Assert.assertEquals(careersPage.getOpenPositionList().size(), 60, "Number of open positions not ok!");
+        Assert.assertEquals(careersPage.getOpenPositionList().size(), EXPECTED_NUMBER_OF_OPEN_POSITIONS, "Number of open positions not ok!");
     }
 }
