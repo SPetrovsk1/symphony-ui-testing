@@ -1,0 +1,60 @@
+Golang Developers, Belgrade, RS
+Medior Python Developers, Belgrade, RS
+Medior QA Automation Engineers, Belgrade, RS
+Medior React.js Developers, Belgrade, RS
+Node.js Developers, Belgrade, RS
+Senior Python Developers, Belgrade, RS
+Senior QA Automation Engineers, Belgrade, RS
+Senior React.js Developers, Belgrade, RS
+Service Delivery Manager, Belgrade, RS
+Solution Architect, Belgrade, RS
+General Application, Bosnia and Herzegovina
+Manual QA Engineer - Make The Shift to Automated QA Testing, Bosnia and Herzegovina
+Medior Python Developers, Bosnia and Herzegovina
+Mid/Senior DevOps Engineers, Bosnia and Herzegovina
+Mid/Senior React Developers, Bosnia and Herzegovina
+Mid/Senior Software Developers, Bosnia and Herzegovina
+Node.js Developers, Bosnia and Herzegovina
+QA Automation Engineers, Bosnia and Herzegovina
+Senior Android Developers, Bosnia and Herzegovina
+Senior Python Developers, Bosnia and Herzegovina
+Service Delivery Manager, Bosnia and Herzegovina
+Solution Architect, Bosnia and Herzegovina
+DevOps Engineers, Niš, RS
+Frontend Developers, Niš, RS
+Java Developers, Niš, RS
+Mobile Developers, Niš, RS
+Node.js Developers, Niš, RS
+Principal UX/UI Designer, Niš, RS
+Python Developers, Niš, RS
+QA Engineer, Niš, RS
+Service Delivery Manager, Niš, RS
+Software Developers, Niš, RS
+Solution Architect, Niš, RS
+UI/UX Designer, Niš, RS
+Application Security Engineer, Novi Sad, Belgrade, RS
+Android Developer, Novi Sad, RS
+Data Engineers, Novi Sad, RS
+DevOps Engineers, Novi Sad, RS
+Machine Learning Engineers, Novi Sad, RS
+Node.js Developer, Novi Sad, RS
+Python Developer, Novi Sad, RS
+QA Automation Engineers, Novi Sad, RS
+React.js Engineers, Novi Sad, RS
+Service Delivery Managers, Novi Sad, RS
+Software Engineers, Novi Sad, RS
+Solution Architects, Novi Sad, RS
+Talent Acquisition Specialist, Novi Sad, RS
+iOS Developer, Novi Sad, RS
+Managing Director, Sarajevo, BA
+DevOps Engineers, Skopje, MK
+Node.js Developers, Skopje, MK
+Python Developers, Skopje, MK
+QA Automation Engineers, Skopje, MK
+Senior Java Developers, Skopje, MK
+Senior Java/Scala Developers, Skopje, MK
+Senior React.js Developers, Skopje, MK
+Service Delivery Manager, Skopje, MK
+Software Developers, Skopje, MK
+Solution Architect, Skopje, MK
+iOS Developers, Skopje, MK
